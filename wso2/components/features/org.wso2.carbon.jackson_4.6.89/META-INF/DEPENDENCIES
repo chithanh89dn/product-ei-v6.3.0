@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - Jackson Feature
+
+
+From: 'an unknown organization'
+  - WSO2 Carbon Orbit - Jackson Data Annotations (http://wso2.org) org.wso2.orbit.com.fasterxml.jackson.core:jackson-annotations:bundle:2.6.1.wso2v1
+
+  - WSO2 Carbon Orbit - Jackson Core (http://wso2.org) org.wso2.orbit.com.fasterxml.jackson.core:jackson-core:bundle:2.6.1.wso2v1
+
+  - WSO2 Carbon Orbit - Jackson Data Bind (http://wso2.org) org.wso2.orbit.com.fasterxml.jackson.core:jackson-databind:bundle:2.6.1.wso2v3
+
+
+
+
+
